@@ -1,5 +1,4 @@
--- Week 2: MySQL kurulum kontrolü
--- Kurulumdan sonra MySQL Workbench'te çalıştırıldı.
+-- Week 2: MySQL kurulumunu doğrulama sorguları
 
 SELECT VERSION();
 
